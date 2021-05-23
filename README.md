@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/odipixel/<OWNER>/<OWNER>/readme_header.png "Header")](https://odipixel.com/)
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 - 👋 Hi, I’m @odipixel
